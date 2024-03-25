@@ -10,7 +10,8 @@
 
   <name>my-app</name>
   <!-- FIXME change it to the project's website -->
-  <url>http:/http://localhost:9000/</url>
+  <url>http://localhost:9000/</url>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
